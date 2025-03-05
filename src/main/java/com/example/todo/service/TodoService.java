@@ -8,7 +8,6 @@ public class TodoService {
     private static final String SECRET_KEY = "hardcoded_secret"; // Vulnerability: hardcoded value
 
     public void addTodo(Todo todo) {
-        // Business logic to add a todo
         System.out.println("Todo added: " + todo);
     }
 
