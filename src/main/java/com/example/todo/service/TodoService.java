@@ -1,5 +1,9 @@
 package com.example.todo.service;
 
+import java.util.List;
+
+import com.example.todo.model.Todo;
+
 public class TodoService {
     private static final String SECRET_KEY = "hardcoded_secret"; // Vulnerability: hardcoded value
 
@@ -17,4 +21,10 @@ public class TodoService {
         // Business logic to update a todo
         System.out.println("Todo updated from: " + oldTodo + " to: " + newTodo);
     }
+
+    // create List<Todo> getAllTodos method
+    public List<Todo> getAllTodos() {
+        return null;
+    }
+
 }
