@@ -1,0 +1,145 @@
+
+1.0 com.example:simple-todo-java-webJavaFrontend"1741193550191*java2.BÑ
+3
+.src/main/java/com/example/todo/model/Todo.java2
+
+package4
+
+com.example.todo.model5
+ 
+com.example.todo.model.Todo7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+
+Todo12
+$
+com.example.todo.model.Todo.id14
+
+field15
+
+id16
+'
+!com.example.todo.model.Todo.title18
+
+title19
++
+%com.example.todo.model.Todo.completed21
+
+	completed22
+P
+Jcom.example.todo.model.Todo#<init>(Ljava/lang/String;Ljava/lang/String;Z)V24
+
+method25
+
+calls26
+
+
+uses27
+
+
+references28J
+
+1
+12Z
+
+3	
+354j√
+@
+20:
+202115 *
+1 (26:3B
+	
+9
+10
+
+
+11
+22
+@
+17:
+171815 *
+1 (26:3B
+	
+9
+10
+
+
+11
+19
+@
+23:
+232425 *
+1	 	(26:3B
+	
+9
+10
+
+
+11
+12
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+10
+
+
+11
+16rá
+
+23626*
+1	 	(
+
+23627*
+1
+	 
+(
+
+23628*
+1
+	 
+(
+
+231328*
+1
+ 
+(
+
+23627*
+1	 (
+
+23628*
+1	 (
+
+231728*
+1 (
+
+23627*
+1	 (
+
+23628*
+1	 (
+
+232028*
+1 (

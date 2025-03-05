@@ -1,0 +1,14 @@
+
+Hcom.example.todo.controller.TodoController#getAllTodos()Ljava/util/List;—
+ŒD:/Training/Walmart/System Design/Workspace/sonar project/simple-todo-java-web/src/main/java/com/example/todo/controller/TodoController.java (!"1*À
+1 (œ
+™
+ (*
+%0$com.example.todo.service.TodoService"__id*[
+
+__unknown_file (?*=,
+*com.example.todo.controller.TodoController"
+todoService"
+ ()
+""B.,
+*com.example.todo.controller.TodoControllerH

@@ -1,0 +1,7 @@
+organization=makarandbhoir
+projectKey=com.example:simple-todo-java-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.60272
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.example%3Asimple-todo-java-web
+ceTaskId=AZVnOTk76NwXRzuKSG--
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZVnOTk76NwXRzuKSG--
